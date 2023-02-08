@@ -2,7 +2,7 @@
 name: User story
 about: User story template
 title: ALS {rol} WIL IK {functie}
-labels: ''
+labels: user story
 assignees: hesteren
 
 ---
