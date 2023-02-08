@@ -2,7 +2,7 @@
 name: Learning story
 about: Learning story template
 title: ALS developer WIL IK {dit leren}
-labels: ''
+labels: learning story
 assignees: hesteren
 
 ---
