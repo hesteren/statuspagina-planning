@@ -1,6 +1,6 @@
 ---
 name: User story task
-about: Small task of max. 4 hours
+about: Subtask
 title: "{taak titel}"
 labels: task
 assignees: hesteren
