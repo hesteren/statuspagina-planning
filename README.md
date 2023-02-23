@@ -1,6 +1,6 @@
 # Statuspagina planning
 
-In deze repository houd ik mijn sprint planning bij.
+In deze repository is mijn sprint planning terug te vinden: Projects -> 'Statuspagina'
 
 # Code
 
